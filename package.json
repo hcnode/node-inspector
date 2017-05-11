@@ -29,6 +29,7 @@
     "glob": "^5.0.5",
     "path-is-absolute": "^1.0.0",
     "rc": "^1.0.1",
+    "request": "^2.81.0",
     "semver": "^4.3.4",
     "serve-favicon": "^2.1.1",
     "strong-data-uri": "^1.0.0",
